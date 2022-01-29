@@ -1,1 +1,1 @@
-# simplequiz
+# Android simplequiz app
